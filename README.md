@@ -1,6 +1,5 @@
-#DevProx 🔱
-# channel [ၣ℡ PROX DEV🔵](https://telegram.me/DEV_PROX)
-👮 - #DEV 🏻-  @IQ_ABS
+#VIP_TEAM_EN 🔱
+# channel [VIP_TEAM }(https://telegram.me/VIP_TEAM1)
 * * *
 
 
@@ -15,10 +14,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone https://github.com/iqabs/DevProx.git
+git clone https://github.com/vipteam1/vip_team_e3.git
 
 #5
-cd DevProx
+cd vip_team_e3
 
 #6
 chmod +x launch.sh
@@ -41,8 +40,8 @@ After you run the bot for first time, send it !id. Get your ID and stop the bot.
 Then restart the bot.
 * * *
 
-# Support and development [ၣ℡ PROX DEV🔵](https://telegram.me/DEV_PROX) 🐾
+# Support and development {VIP_TEAM} (https://telegram.me/VIP_TEAM1) 🐾
 
 For managing on Telegram.
-ADD [@iMardona](https://telegram.me/iMardona) ❤️
-Subscribe to Source channel [ၣ℡ PROX DEV🔵](https://telegram.me/DEV_PROX) 
+ADD [@i_d_b](https://telegram.me/i_d_b) ❤️
+Subscribe to Source channel [VIP_TEAM1](https://telegram.me/VIP_TEAM1) 
